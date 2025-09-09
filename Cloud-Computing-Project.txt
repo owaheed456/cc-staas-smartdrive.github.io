@@ -1,0 +1,47 @@
+Cloud Computing Project Assignment
+
+Design and Implementation STaaS: A Cloud Based Smart Drive
+
+Design: Cloud based portal access from any popular web browser from a computer or a cell phone/pad. 
+User can drag and drop files to the portal interfacing area. 
+The system will automatically put the file in different folders based on the type of the files, such as “MS Word”, “MS Excel”, “PDF”, “Audio”, “Video”, etc. 
+If a new type of file is dropped, the system will automatically create a new folder for this new file type.
+Users can also create new folders and establish rules for new file types.
+The system will confirm after uploading or downloading (success/fail).
+Sorting based on last access time, time of creation, file size and name should be available.
+Searching by file name should be implemented.
+
+Data safety and security must be considered in the design with cloud-based solution given, but implementation of data safety and security is not required.
+
+Implementation: Implement the designed system on a public cloud.
+You can use any cloud system you prefer as long as it has public access, such as AWS.
+You need to work independently but you could leverage the established cloud modules and cloud API.
+Establish a domain address with internet access to your system.
+
+Testing: Design testing approaches and test plan including functional testing (Black box and White box), test case design and implementation.
+
+Group: This is a group project.
+Each group should have 2-4 students.
+Everybody submits a simple project plan by Oct 5, limited to one cover page listing all team members, and 1 content page for a brief introduction about what YOU will do as one of the group. (5 marks)
+
+Presentation: All groups will present their project at the last class(11/21, 11/28).
+PPT is limited to 15 pages, presentation limited to 20 minutes, everybody in the group present part of the presentation. (5 Marks).
+
+Every Student Please submit: PPT, Project Report, Source Codes and Modules, and internet domain address (Web address) of the implemented system. (20 Marks)
+
+The project report (every student submit) due 23:59 12/05 on Moodle, should include:
+Cover page with your name, student ID and university Email
+Brief Project Background, Technology and Market analysis (simple 1 page)
+System Design and Architecture
+System Implementation over Cloud and Internet Access
+Testing Plan Design, Testing Case Design, Testing Result
+Performance Evaluation and Performance Optimization (Optional)
+Timelines, resource allocation and project planning (simple 1 page)
+Summary and References
+
+Note 1: In your project implementation and sample data files, please do not include any real personal data of yourself or anybody else.
+
+Note 2: The service should be accessible from internet.
+If you prefer a domain name, there are lots of providers who offer very cheap (say $0.99) domain names, such as GoDaddy etc.
+Or you can use GitHub or an IP address for free.
+You need to implement this, make sure it works and explain it in the report.
